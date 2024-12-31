@@ -74,5 +74,11 @@ plot_ly(df,
 # A seasonal pattern is observed in the Net Amount
 # Discount Amount is relatively stable over time.
 
+# Save Data ####
+write.csv(df,
+  file = "data/export/net_amount_discount_monthly.csv",
+  row.names = FALSE
+)
+
 # Style Active File ####
 # styler:::style_active_file()
