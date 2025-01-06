@@ -1,0 +1,977 @@
+"Purchase Date","Purchase Method","Amount Type","Amount"
+2019-09-01,"Cash on Delivery","Net Amount",33779.539
+2019-09-01,"Cash on Delivery","Discount Amount INR",2387.06
+2019-09-01,"Credit Card","Net Amount",332777.303
+2019-09-01,"Credit Card","Discount Amount INR",13813.48
+2019-09-01,"Debit Card","Net Amount",246856.295
+2019-09-01,"Debit Card","Discount Amount INR",10242.82
+2019-09-01,"Google Pay UPI","Net Amount",74506.2555
+2019-09-01,"Google Pay UPI","Discount Amount INR",2933.25
+2019-09-01,"International Card","Net Amount",35612.5705
+2019-09-01,"International Card","Discount Amount INR",2238.05
+2019-09-01,"Net Banking","Net Amount",83187.092
+2019-09-01,"Net Banking","Discount Amount INR",3631.57
+2019-09-01,"Paytm UPI","Net Amount",56551.7875
+2019-09-01,"Paytm UPI","Discount Amount INR",2718.35
+2019-09-01,"PhonePe UPI","Net Amount",62053.623
+2019-09-01,"PhonePe UPI","Discount Amount INR",2552.31
+2019-10-01,"Cash on Delivery","Net Amount",158735.466
+2019-10-01,"Cash on Delivery","Discount Amount INR",6086.84
+2019-10-01,"Credit Card","Net Amount",1108733.663
+2019-10-01,"Credit Card","Discount Amount INR",56385.16
+2019-10-01,"Debit Card","Net Amount",696263.293
+2019-10-01,"Debit Card","Discount Amount INR",36786.53
+2019-10-01,"Google Pay UPI","Net Amount",110098.136
+2019-10-01,"Google Pay UPI","Discount Amount INR",5758
+2019-10-01,"International Card","Net Amount",108160.438
+2019-10-01,"International Card","Discount Amount INR",8280.04
+2019-10-01,"Net Banking","Net Amount",276938.402
+2019-10-01,"Net Banking","Discount Amount INR",12186.39
+2019-10-01,"Paytm UPI","Net Amount",102193.425
+2019-10-01,"Paytm UPI","Discount Amount INR",5417.21
+2019-10-01,"PhonePe UPI","Net Amount",136935.173
+2019-10-01,"PhonePe UPI","Discount Amount INR",6707.26
+2019-11-01,"Cash on Delivery","Net Amount",132163.069
+2019-11-01,"Cash on Delivery","Discount Amount INR",4478.15
+2019-11-01,"Credit Card","Net Amount",1070871.287
+2019-11-01,"Credit Card","Discount Amount INR",49043.21
+2019-11-01,"Debit Card","Net Amount",691527.385
+2019-11-01,"Debit Card","Discount Amount INR",27963.53
+2019-11-01,"Google Pay UPI","Net Amount",136288.648
+2019-11-01,"Google Pay UPI","Discount Amount INR",5604.48
+2019-11-01,"International Card","Net Amount",168323.104
+2019-11-01,"International Card","Discount Amount INR",5265.61
+2019-11-01,"Net Banking","Net Amount",267407.513
+2019-11-01,"Net Banking","Discount Amount INR",10341.27
+2019-11-01,"Paytm UPI","Net Amount",136463.124
+2019-11-01,"Paytm UPI","Discount Amount INR",8097.24
+2019-11-01,"PhonePe UPI","Net Amount",110906.073
+2019-11-01,"PhonePe UPI","Discount Amount INR",4487.92
+2019-12-01,"Cash on Delivery","Net Amount",171801.498
+2019-12-01,"Cash on Delivery","Discount Amount INR",5696.83
+2019-12-01,"Credit Card","Net Amount",1262935.878
+2019-12-01,"Credit Card","Discount Amount INR",52425.19
+2019-12-01,"Debit Card","Net Amount",763789.156
+2019-12-01,"Debit Card","Discount Amount INR",30675.62
+2019-12-01,"Google Pay UPI","Net Amount",155982.146
+2019-12-01,"Google Pay UPI","Discount Amount INR",7925.01
+2019-12-01,"International Card","Net Amount",140429.614
+2019-12-01,"International Card","Discount Amount INR",6460.99
+2019-12-01,"Net Banking","Net Amount",403542.816
+2019-12-01,"Net Banking","Discount Amount INR",12321.57
+2019-12-01,"Paytm UPI","Net Amount",121501.918
+2019-12-01,"Paytm UPI","Discount Amount INR",5189.08
+2019-12-01,"PhonePe UPI","Net Amount",183435.806
+2019-12-01,"PhonePe UPI","Discount Amount INR",7474.69
+2020-01-01,"Cash on Delivery","Net Amount",105361.8218
+2020-01-01,"Cash on Delivery","Discount Amount INR",5608.81
+2020-01-01,"Credit Card","Net Amount",769512.85845
+2020-01-01,"Credit Card","Discount Amount INR",43491.63
+2020-01-01,"Debit Card","Net Amount",578819.38755
+2020-01-01,"Debit Card","Discount Amount INR",38252.94
+2020-01-01,"Google Pay UPI","Net Amount",70101.01705
+2020-01-01,"Google Pay UPI","Discount Amount INR",3313.85
+2020-01-01,"International Card","Net Amount",122214.9958
+2020-01-01,"International Card","Discount Amount INR",5373.65
+2020-01-01,"Net Banking","Net Amount",238907.4175
+2020-01-01,"Net Banking","Discount Amount INR",13516.73
+2020-01-01,"Paytm UPI","Net Amount",106860.7936
+2020-01-01,"Paytm UPI","Discount Amount INR",8665.91
+2020-01-01,"PhonePe UPI","Net Amount",105862.2255
+2020-01-01,"PhonePe UPI","Discount Amount INR",5910.39
+2020-02-01,"Cash on Delivery","Net Amount",93021.6902
+2020-02-01,"Cash on Delivery","Discount Amount INR",5570.5
+2020-02-01,"Credit Card","Net Amount",736712.307075
+2020-02-01,"Credit Card","Discount Amount INR",46095.15
+2020-02-01,"Debit Card","Net Amount",452476.1151
+2020-02-01,"Debit Card","Discount Amount INR",28682.88
+2020-02-01,"Google Pay UPI","Net Amount",88228.66065
+2020-02-01,"Google Pay UPI","Discount Amount INR",6530.01
+2020-02-01,"International Card","Net Amount",92134.909325
+2020-02-01,"International Card","Discount Amount INR",3650.77
+2020-02-01,"Net Banking","Net Amount",183649.3082
+2020-02-01,"Net Banking","Discount Amount INR",12423.16
+2020-02-01,"Paytm UPI","Net Amount",62017.363875
+2020-02-01,"Paytm UPI","Discount Amount INR",6223.32
+2020-02-01,"PhonePe UPI","Net Amount",119621.74105
+2020-02-01,"PhonePe UPI","Discount Amount INR",8501.15
+2020-03-01,"Cash on Delivery","Net Amount",126175.8821
+2020-03-01,"Cash on Delivery","Discount Amount INR",8022.94
+2020-03-01,"Credit Card","Net Amount",963434.449525
+2020-03-01,"Credit Card","Discount Amount INR",55982.81
+2020-03-01,"Debit Card","Net Amount",592239.13275
+2020-03-01,"Debit Card","Discount Amount INR",34640.64
+2020-03-01,"Google Pay UPI","Net Amount",135744.57635
+2020-03-01,"Google Pay UPI","Discount Amount INR",8140.27
+2020-03-01,"International Card","Net Amount",140971.86005
+2020-03-01,"International Card","Discount Amount INR",8677.06
+2020-03-01,"Net Banking","Net Amount",220788.279625
+2020-03-01,"Net Banking","Discount Amount INR",11884.73
+2020-03-01,"Paytm UPI","Net Amount",124334.656975
+2020-03-01,"Paytm UPI","Discount Amount INR",7508.12
+2020-03-01,"PhonePe UPI","Net Amount",110021.911075
+2020-03-01,"PhonePe UPI","Discount Amount INR",7423.31
+2020-04-01,"Cash on Delivery","Net Amount",75932.809
+2020-04-01,"Cash on Delivery","Discount Amount INR",5835.5
+2020-04-01,"Credit Card","Net Amount",929892.8535
+2020-04-01,"Credit Card","Discount Amount INR",58496.37
+2020-04-01,"Debit Card","Net Amount",536401.3525
+2020-04-01,"Debit Card","Discount Amount INR",34017.71
+2020-04-01,"Google Pay UPI","Net Amount",116561.009
+2020-04-01,"Google Pay UPI","Discount Amount INR",6225.55
+2020-04-01,"International Card","Net Amount",143319.7765
+2020-04-01,"International Card","Discount Amount INR",7540.79
+2020-04-01,"Net Banking","Net Amount",273602.009
+2020-04-01,"Net Banking","Discount Amount INR",13807.75
+2020-04-01,"Paytm UPI","Net Amount",182579.657
+2020-04-01,"Paytm UPI","Discount Amount INR",8107
+2020-04-01,"PhonePe UPI","Net Amount",133408.683
+2020-04-01,"PhonePe UPI","Discount Amount INR",6338.19
+2020-05-01,"Cash on Delivery","Net Amount",113225.7315
+2020-05-01,"Cash on Delivery","Discount Amount INR",7249.83
+2020-05-01,"Credit Card","Net Amount",1010428.8675
+2020-05-01,"Credit Card","Discount Amount INR",56249.28
+2020-05-01,"Debit Card","Net Amount",572936.2865
+2020-05-01,"Debit Card","Discount Amount INR",36422.74
+2020-05-01,"Google Pay UPI","Net Amount",104547.735
+2020-05-01,"Google Pay UPI","Discount Amount INR",6504.36
+2020-05-01,"International Card","Net Amount",114771.144
+2020-05-01,"International Card","Discount Amount INR",3930.39
+2020-05-01,"Net Banking","Net Amount",229346.2905
+2020-05-01,"Net Banking","Discount Amount INR",11391.84
+2020-05-01,"Paytm UPI","Net Amount",120265.6405
+2020-05-01,"Paytm UPI","Discount Amount INR",9535.37
+2020-05-01,"PhonePe UPI","Net Amount",144087.784
+2020-05-01,"PhonePe UPI","Discount Amount INR",5611.85
+2020-06-01,"Cash on Delivery","Net Amount",73682.35275
+2020-06-01,"Cash on Delivery","Discount Amount INR",4561.71
+2020-06-01,"Credit Card","Net Amount",888308.8763
+2020-06-01,"Credit Card","Discount Amount INR",49489.6
+2020-06-01,"Debit Card","Net Amount",494184.84515
+2020-06-01,"Debit Card","Discount Amount INR",30358.45
+2020-06-01,"Google Pay UPI","Net Amount",103519.24415
+2020-06-01,"Google Pay UPI","Discount Amount INR",4632.67
+2020-06-01,"International Card","Net Amount",116553.293
+2020-06-01,"International Card","Discount Amount INR",8095.42
+2020-06-01,"Net Banking","Net Amount",137349.09925
+2020-06-01,"Net Banking","Discount Amount INR",11117.63
+2020-06-01,"Paytm UPI","Net Amount",95675.1123
+2020-06-01,"Paytm UPI","Discount Amount INR",6177.12
+2020-06-01,"PhonePe UPI","Net Amount",129945.89875
+2020-06-01,"PhonePe UPI","Discount Amount INR",8083.4
+2020-07-01,"Cash on Delivery","Net Amount",86006.5867
+2020-07-01,"Cash on Delivery","Discount Amount INR",5734.07
+2020-07-01,"Credit Card","Net Amount",812652.4959
+2020-07-01,"Credit Card","Discount Amount INR",44534.91
+2020-07-01,"Debit Card","Net Amount",536501.1199
+2020-07-01,"Debit Card","Discount Amount INR",32834.75
+2020-07-01,"Google Pay UPI","Net Amount",109764.70955
+2020-07-01,"Google Pay UPI","Discount Amount INR",5253.31
+2020-07-01,"International Card","Net Amount",96924.9581
+2020-07-01,"International Card","Discount Amount INR",5362.39
+2020-07-01,"Net Banking","Net Amount",208522.8734
+2020-07-01,"Net Banking","Discount Amount INR",14905.48
+2020-07-01,"Paytm UPI","Net Amount",90652.5568
+2020-07-01,"Paytm UPI","Discount Amount INR",5431.49
+2020-07-01,"PhonePe UPI","Net Amount",123752.3246
+2020-07-01,"PhonePe UPI","Discount Amount INR",4847.32
+2020-08-01,"Cash on Delivery","Net Amount",125769.295
+2020-08-01,"Cash on Delivery","Discount Amount INR",8628.29
+2020-08-01,"Credit Card","Net Amount",983345.847
+2020-08-01,"Credit Card","Discount Amount INR",53481.84
+2020-08-01,"Debit Card","Net Amount",552584.99
+2020-08-01,"Debit Card","Discount Amount INR",31343.11
+2020-08-01,"Google Pay UPI","Net Amount",142762.68
+2020-08-01,"Google Pay UPI","Discount Amount INR",6389.19
+2020-08-01,"International Card","Net Amount",133475.1135
+2020-08-01,"International Card","Discount Amount INR",6887.07
+2020-08-01,"Net Banking","Net Amount",250524.053
+2020-08-01,"Net Banking","Discount Amount INR",12040.9
+2020-08-01,"Paytm UPI","Net Amount",98607.2185
+2020-08-01,"Paytm UPI","Discount Amount INR",5355.98
+2020-08-01,"PhonePe UPI","Net Amount",143055.632
+2020-08-01,"PhonePe UPI","Discount Amount INR",7828.78
+2020-09-01,"Cash on Delivery","Net Amount",130731.438425
+2020-09-01,"Cash on Delivery","Discount Amount INR",7139.02
+2020-09-01,"Credit Card","Net Amount",1049288.5311
+2020-09-01,"Credit Card","Discount Amount INR",54616.98
+2020-09-01,"Debit Card","Net Amount",594542.40115
+2020-09-01,"Debit Card","Discount Amount INR",30872.84
+2020-09-01,"Google Pay UPI","Net Amount",142268.602575
+2020-09-01,"Google Pay UPI","Discount Amount INR",7388.97
+2020-09-01,"International Card","Net Amount",138947.5663
+2020-09-01,"International Card","Discount Amount INR",7510.43
+2020-09-01,"Net Banking","Net Amount",230367.6503
+2020-09-01,"Net Banking","Discount Amount INR",14395.42
+2020-09-01,"Paytm UPI","Net Amount",159192.7921
+2020-09-01,"Paytm UPI","Discount Amount INR",6895.79
+2020-09-01,"PhonePe UPI","Net Amount",77354.736175
+2020-09-01,"PhonePe UPI","Discount Amount INR",4785.56
+2020-10-01,"Cash on Delivery","Net Amount",128989.61435
+2020-10-01,"Cash on Delivery","Discount Amount INR",8318.83
+2020-10-01,"Credit Card","Net Amount",1059522.3326
+2020-10-01,"Credit Card","Discount Amount INR",45984.67
+2020-10-01,"Debit Card","Net Amount",641274.86835
+2020-10-01,"Debit Card","Discount Amount INR",31076.7
+2020-10-01,"Google Pay UPI","Net Amount",105008.99455
+2020-10-01,"Google Pay UPI","Discount Amount INR",3365.36
+2020-10-01,"International Card","Net Amount",120861.2362
+2020-10-01,"International Card","Discount Amount INR",4719.65
+2020-10-01,"Net Banking","Net Amount",248165.84145
+2020-10-01,"Net Banking","Discount Amount INR",13354.56
+2020-10-01,"Paytm UPI","Net Amount",144277.46125
+2020-10-01,"Paytm UPI","Discount Amount INR",5636.63
+2020-10-01,"PhonePe UPI","Net Amount",102074.3438
+2020-10-01,"PhonePe UPI","Discount Amount INR",6849.04
+2020-11-01,"Cash on Delivery","Net Amount",142675.39545
+2020-11-01,"Cash on Delivery","Discount Amount INR",6739.32
+2020-11-01,"Credit Card","Net Amount",1405003.019
+2020-11-01,"Credit Card","Discount Amount INR",57193.99
+2020-11-01,"Debit Card","Net Amount",815583.68215
+2020-11-01,"Debit Card","Discount Amount INR",29816.66
+2020-11-01,"Google Pay UPI","Net Amount",127507.43205
+2020-11-01,"Google Pay UPI","Discount Amount INR",6178.17
+2020-11-01,"International Card","Net Amount",144188.57755
+2020-11-01,"International Card","Discount Amount INR",6227.42
+2020-11-01,"Net Banking","Net Amount",295910.1036
+2020-11-01,"Net Banking","Discount Amount INR",10287.57
+2020-11-01,"Paytm UPI","Net Amount",129542.5597
+2020-11-01,"Paytm UPI","Discount Amount INR",5141.69
+2020-11-01,"PhonePe UPI","Net Amount",133717.96875
+2020-11-01,"PhonePe UPI","Discount Amount INR",8277.18
+2020-12-01,"Cash on Delivery","Net Amount",217892.4186
+2020-12-01,"Cash on Delivery","Discount Amount INR",9714.12
+2020-12-01,"Credit Card","Net Amount",1323063.28
+2020-12-01,"Credit Card","Discount Amount INR",54803
+2020-12-01,"Debit Card","Net Amount",906842.1687
+2020-12-01,"Debit Card","Discount Amount INR",35026.83
+2020-12-01,"Google Pay UPI","Net Amount",116090.2354
+2020-12-01,"Google Pay UPI","Discount Amount INR",5626.97
+2020-12-01,"International Card","Net Amount",145472.856
+2020-12-01,"International Card","Discount Amount INR",4263.99
+2020-12-01,"Net Banking","Net Amount",338127.8566
+2020-12-01,"Net Banking","Discount Amount INR",9457.73
+2020-12-01,"Paytm UPI","Net Amount",146257.2184
+2020-12-01,"Paytm UPI","Discount Amount INR",5915.3
+2020-12-01,"PhonePe UPI","Net Amount",190585.0522
+2020-12-01,"PhonePe UPI","Discount Amount INR",8923.73
+2021-01-01,"Cash on Delivery","Net Amount",100061.0751
+2021-01-01,"Cash on Delivery","Discount Amount INR",6685.17
+2021-01-01,"Credit Card","Net Amount",935789.4798
+2021-01-01,"Credit Card","Discount Amount INR",49184.31
+2021-01-01,"Debit Card","Net Amount",632146.0398
+2021-01-01,"Debit Card","Discount Amount INR",35721.84
+2021-01-01,"Google Pay UPI","Net Amount",126426.8476
+2021-01-01,"Google Pay UPI","Discount Amount INR",5582.96
+2021-01-01,"International Card","Net Amount",103972.1514
+2021-01-01,"International Card","Discount Amount INR",7978.89
+2021-01-01,"Net Banking","Net Amount",231993.1173
+2021-01-01,"Net Banking","Discount Amount INR",10174.02
+2021-01-01,"Paytm UPI","Net Amount",96622.3268
+2021-01-01,"Paytm UPI","Discount Amount INR",3761.02
+2021-01-01,"PhonePe UPI","Net Amount",106690.3489
+2021-01-01,"PhonePe UPI","Discount Amount INR",5331.23
+2021-02-01,"Cash on Delivery","Net Amount",91808.72425
+2021-02-01,"Cash on Delivery","Discount Amount INR",7395.29
+2021-02-01,"Credit Card","Net Amount",772735.1416
+2021-02-01,"Credit Card","Discount Amount INR",47749.2
+2021-02-01,"Debit Card","Net Amount",534785.42005
+2021-02-01,"Debit Card","Discount Amount INR",28448.51
+2021-02-01,"Google Pay UPI","Net Amount",92769.7779
+2021-02-01,"Google Pay UPI","Discount Amount INR",3513.1
+2021-02-01,"International Card","Net Amount",86011.3356
+2021-02-01,"International Card","Discount Amount INR",4810.6
+2021-02-01,"Net Banking","Net Amount",207762.2346
+2021-02-01,"Net Banking","Discount Amount INR",10882.99
+2021-02-01,"Paytm UPI","Net Amount",112503.9548
+2021-02-01,"Paytm UPI","Discount Amount INR",5210.75
+2021-02-01,"PhonePe UPI","Net Amount",95107.246
+2021-02-01,"PhonePe UPI","Discount Amount INR",5287.07
+2021-03-01,"Cash on Delivery","Net Amount",109101.0743
+2021-03-01,"Cash on Delivery","Discount Amount INR",4833.75
+2021-03-01,"Credit Card","Net Amount",911708.53885
+2021-03-01,"Credit Card","Discount Amount INR",49210.27
+2021-03-01,"Debit Card","Net Amount",598796.21285
+2021-03-01,"Debit Card","Discount Amount INR",31908.03
+2021-03-01,"Google Pay UPI","Net Amount",139113.2121
+2021-03-01,"Google Pay UPI","Discount Amount INR",5750.31
+2021-03-01,"International Card","Net Amount",133928.9446
+2021-03-01,"International Card","Discount Amount INR",6518.93
+2021-03-01,"Net Banking","Net Amount",224594.83795
+2021-03-01,"Net Banking","Discount Amount INR",11612.27
+2021-03-01,"Paytm UPI","Net Amount",124040.39235
+2021-03-01,"Paytm UPI","Discount Amount INR",4582.21
+2021-03-01,"PhonePe UPI","Net Amount",108541.6777
+2021-03-01,"PhonePe UPI","Discount Amount INR",3353.85
+2021-04-01,"Cash on Delivery","Net Amount",108797.817
+2021-04-01,"Cash on Delivery","Discount Amount INR",5964.16
+2021-04-01,"Credit Card","Net Amount",939839.889
+2021-04-01,"Credit Card","Discount Amount INR",51591.2
+2021-04-01,"Debit Card","Net Amount",599983.729
+2021-04-01,"Debit Card","Discount Amount INR",32462.8
+2021-04-01,"Google Pay UPI","Net Amount",165933.278
+2021-04-01,"Google Pay UPI","Discount Amount INR",6987.47
+2021-04-01,"International Card","Net Amount",127438.561
+2021-04-01,"International Card","Discount Amount INR",8411.78
+2021-04-01,"Net Banking","Net Amount",280422.586
+2021-04-01,"Net Banking","Discount Amount INR",13713.19
+2021-04-01,"Paytm UPI","Net Amount",144827.531
+2021-04-01,"Paytm UPI","Discount Amount INR",6182.79
+2021-04-01,"PhonePe UPI","Net Amount",120023.46
+2021-04-01,"PhonePe UPI","Discount Amount INR",6175.58
+2021-05-01,"Cash on Delivery","Net Amount",133654.859
+2021-05-01,"Cash on Delivery","Discount Amount INR",6197.37
+2021-05-01,"Credit Card","Net Amount",967866.567
+2021-05-01,"Credit Card","Discount Amount INR",43837.72
+2021-05-01,"Debit Card","Net Amount",613492.449
+2021-05-01,"Debit Card","Discount Amount INR",34636.12
+2021-05-01,"Google Pay UPI","Net Amount",127315.689
+2021-05-01,"Google Pay UPI","Discount Amount INR",6580.04
+2021-05-01,"International Card","Net Amount",107264.588
+2021-05-01,"International Card","Discount Amount INR",5908.34
+2021-05-01,"Net Banking","Net Amount",226648.553
+2021-05-01,"Net Banking","Discount Amount INR",12495.11
+2021-05-01,"Paytm UPI","Net Amount",132915.545
+2021-05-01,"Paytm UPI","Discount Amount INR",5285.1
+2021-05-01,"PhonePe UPI","Net Amount",132529.359
+2021-05-01,"PhonePe UPI","Discount Amount INR",9231.81
+2021-06-01,"Cash on Delivery","Net Amount",128535.768
+2021-06-01,"Cash on Delivery","Discount Amount INR",4953.06
+2021-06-01,"Credit Card","Net Amount",840959.5533
+2021-06-01,"Credit Card","Discount Amount INR",52597.29
+2021-06-01,"Debit Card","Net Amount",553231.3483
+2021-06-01,"Debit Card","Discount Amount INR",34154.63
+2021-06-01,"Google Pay UPI","Net Amount",89943.4868
+2021-06-01,"Google Pay UPI","Discount Amount INR",6096.73
+2021-06-01,"International Card","Net Amount",133007.772
+2021-06-01,"International Card","Discount Amount INR",5761.32
+2021-06-01,"Net Banking","Net Amount",261956.0782
+2021-06-01,"Net Banking","Discount Amount INR",13093.82
+2021-06-01,"Paytm UPI","Net Amount",104285.2338
+2021-06-01,"Paytm UPI","Discount Amount INR",6541.92
+2021-06-01,"PhonePe UPI","Net Amount",92921.7706
+2021-06-01,"PhonePe UPI","Discount Amount INR",4566.44
+2021-07-01,"Cash on Delivery","Net Amount",85536.6121
+2021-07-01,"Cash on Delivery","Discount Amount INR",5773.85
+2021-07-01,"Credit Card","Net Amount",877798.1447
+2021-07-01,"Credit Card","Discount Amount INR",54086.41
+2021-07-01,"Debit Card","Net Amount",594066.0227
+2021-07-01,"Debit Card","Discount Amount INR",34553.02
+2021-07-01,"Google Pay UPI","Net Amount",156843.847
+2021-07-01,"Google Pay UPI","Discount Amount INR",7723.16
+2021-07-01,"International Card","Net Amount",134071.0607
+2021-07-01,"International Card","Discount Amount INR",6857.35
+2021-07-01,"Net Banking","Net Amount",192109.7142
+2021-07-01,"Net Banking","Discount Amount INR",11879.37
+2021-07-01,"Paytm UPI","Net Amount",111253.5963
+2021-07-01,"Paytm UPI","Discount Amount INR",6561.72
+2021-07-01,"PhonePe UPI","Net Amount",150688.8926
+2021-07-01,"PhonePe UPI","Discount Amount INR",8866.18
+2021-08-01,"Cash on Delivery","Net Amount",100796.882
+2021-08-01,"Cash on Delivery","Discount Amount INR",5845.5
+2021-08-01,"Credit Card","Net Amount",1006684.575
+2021-08-01,"Credit Card","Discount Amount INR",51335.08
+2021-08-01,"Debit Card","Net Amount",569657.537
+2021-08-01,"Debit Card","Discount Amount INR",27743.52
+2021-08-01,"Google Pay UPI","Net Amount",122101.632
+2021-08-01,"Google Pay UPI","Discount Amount INR",7952.93
+2021-08-01,"International Card","Net Amount",108796.631
+2021-08-01,"International Card","Discount Amount INR",4415.27
+2021-08-01,"Net Banking","Net Amount",214199.113
+2021-08-01,"Net Banking","Discount Amount INR",10432.25
+2021-08-01,"Paytm UPI","Net Amount",127544.246
+2021-08-01,"Paytm UPI","Discount Amount INR",5547.46
+2021-08-01,"PhonePe UPI","Net Amount",157734.995
+2021-08-01,"PhonePe UPI","Discount Amount INR",9246.16
+2021-09-01,"Cash on Delivery","Net Amount",136904.7558
+2021-09-01,"Cash on Delivery","Discount Amount INR",7304.34
+2021-09-01,"Credit Card","Net Amount",1098088.78125
+2021-09-01,"Credit Card","Discount Amount INR",57569.28
+2021-09-01,"Debit Card","Net Amount",636013.3878
+2021-09-01,"Debit Card","Discount Amount INR",29620.92
+2021-09-01,"Google Pay UPI","Net Amount",99417.8359
+2021-09-01,"Google Pay UPI","Discount Amount INR",3989.06
+2021-09-01,"International Card","Net Amount",123504.23215
+2021-09-01,"International Card","Discount Amount INR",5909.51
+2021-09-01,"Net Banking","Net Amount",216632.78285
+2021-09-01,"Net Banking","Discount Amount INR",12667.6
+2021-09-01,"Paytm UPI","Net Amount",125170.8834
+2021-09-01,"Paytm UPI","Discount Amount INR",3840.63
+2021-09-01,"PhonePe UPI","Net Amount",100066.54665
+2021-09-01,"PhonePe UPI","Discount Amount INR",6046.11
+2021-10-01,"Cash on Delivery","Net Amount",129038.6199
+2021-10-01,"Cash on Delivery","Discount Amount INR",6982.55
+2021-10-01,"Credit Card","Net Amount",1171812.0667
+2021-10-01,"Credit Card","Discount Amount INR",53676.26
+2021-10-01,"Debit Card","Net Amount",720328.1212
+2021-10-01,"Debit Card","Discount Amount INR",35321.38
+2021-10-01,"Google Pay UPI","Net Amount",140513.7813
+2021-10-01,"Google Pay UPI","Discount Amount INR",8561.28
+2021-10-01,"International Card","Net Amount",134719.4273
+2021-10-01,"International Card","Discount Amount INR",4704.19
+2021-10-01,"Net Banking","Net Amount",291573.2196
+2021-10-01,"Net Banking","Discount Amount INR",14004.73
+2021-10-01,"Paytm UPI","Net Amount",130687.4942
+2021-10-01,"Paytm UPI","Discount Amount INR",6222.82
+2021-10-01,"PhonePe UPI","Net Amount",113814.7489
+2021-10-01,"PhonePe UPI","Discount Amount INR",5314.7
+2021-11-01,"Cash on Delivery","Net Amount",147118.1418
+2021-11-01,"Cash on Delivery","Discount Amount INR",5244.44
+2021-11-01,"Credit Card","Net Amount",1245143.1225
+2021-11-01,"Credit Card","Discount Amount INR",53582.52
+2021-11-01,"Debit Card","Net Amount",807366.9667
+2021-11-01,"Debit Card","Discount Amount INR",25611.88
+2021-11-01,"Google Pay UPI","Net Amount",126518.0579
+2021-11-01,"Google Pay UPI","Discount Amount INR",5757.7
+2021-11-01,"International Card","Net Amount",152449.3556
+2021-11-01,"International Card","Discount Amount INR",5103.64
+2021-11-01,"Net Banking","Net Amount",334193.2563
+2021-11-01,"Net Banking","Discount Amount INR",13807.84
+2021-11-01,"Paytm UPI","Net Amount",136852.5481
+2021-11-01,"Paytm UPI","Discount Amount INR",6222.77
+2021-11-01,"PhonePe UPI","Net Amount",133202.0873
+2021-11-01,"PhonePe UPI","Discount Amount INR",6275.98
+2021-12-01,"Cash on Delivery","Net Amount",155663.443
+2021-12-01,"Cash on Delivery","Discount Amount INR",4149.21
+2021-12-01,"Credit Card","Net Amount",1553365.0764
+2021-12-01,"Credit Card","Discount Amount INR",57649.19
+2021-12-01,"Debit Card","Net Amount",886870.1922
+2021-12-01,"Debit Card","Discount Amount INR",29398.13
+2021-12-01,"Google Pay UPI","Net Amount",160788.7354
+2021-12-01,"Google Pay UPI","Discount Amount INR",4008.99
+2021-12-01,"International Card","Net Amount",194431.7852
+2021-12-01,"International Card","Discount Amount INR",7926.34
+2021-12-01,"Net Banking","Net Amount",360175.361
+2021-12-01,"Net Banking","Discount Amount INR",15222.2
+2021-12-01,"Paytm UPI","Net Amount",171102.7622
+2021-12-01,"Paytm UPI","Discount Amount INR",8933.91
+2021-12-01,"PhonePe UPI","Net Amount",228779.8976
+2021-12-01,"PhonePe UPI","Discount Amount INR",6525.08
+2022-01-01,"Cash on Delivery","Net Amount",116619.9824
+2022-01-01,"Cash on Delivery","Discount Amount INR",8760.58
+2022-01-01,"Credit Card","Net Amount",1019701.9542
+2022-01-01,"Credit Card","Discount Amount INR",53909.88
+2022-01-01,"Debit Card","Net Amount",578467.0531
+2022-01-01,"Debit Card","Discount Amount INR",29382.92
+2022-01-01,"Google Pay UPI","Net Amount",153468.7003
+2022-01-01,"Google Pay UPI","Discount Amount INR",5379.56
+2022-01-01,"International Card","Net Amount",119291.02245
+2022-01-01,"International Card","Discount Amount INR",7457.22
+2022-01-01,"Net Banking","Net Amount",246926.86175
+2022-01-01,"Net Banking","Discount Amount INR",12311.71
+2022-01-01,"Paytm UPI","Net Amount",126792.043
+2022-01-01,"Paytm UPI","Discount Amount INR",6472.28
+2022-01-01,"PhonePe UPI","Net Amount",127567.4246
+2022-01-01,"PhonePe UPI","Discount Amount INR",8538.76
+2022-02-01,"Cash on Delivery","Net Amount",117721.60295
+2022-02-01,"Cash on Delivery","Discount Amount INR",6560.66
+2022-02-01,"Credit Card","Net Amount",831635.147525
+2022-02-01,"Credit Card","Discount Amount INR",44572.5
+2022-02-01,"Debit Card","Net Amount",529628.942275
+2022-02-01,"Debit Card","Discount Amount INR",25941.99
+2022-02-01,"Google Pay UPI","Net Amount",91722.555775
+2022-02-01,"Google Pay UPI","Discount Amount INR",6831.35
+2022-02-01,"International Card","Net Amount",118619.360075
+2022-02-01,"International Card","Discount Amount INR",5845.06
+2022-02-01,"Net Banking","Net Amount",155153.34025
+2022-02-01,"Net Banking","Discount Amount INR",9468.51
+2022-02-01,"Paytm UPI","Net Amount",99519.954
+2022-02-01,"Paytm UPI","Discount Amount INR",5512.03
+2022-02-01,"PhonePe UPI","Net Amount",98253.07765
+2022-02-01,"PhonePe UPI","Discount Amount INR",7234.48
+2022-03-01,"Cash on Delivery","Net Amount",93886.7827
+2022-03-01,"Cash on Delivery","Discount Amount INR",5144.89
+2022-03-01,"Credit Card","Net Amount",892770.14405
+2022-03-01,"Credit Card","Discount Amount INR",48283.42
+2022-03-01,"Debit Card","Net Amount",601926.222725
+2022-03-01,"Debit Card","Discount Amount INR",27603.49
+2022-03-01,"Google Pay UPI","Net Amount",136732.68395
+2022-03-01,"Google Pay UPI","Discount Amount INR",6062.9
+2022-03-01,"International Card","Net Amount",144666.75855
+2022-03-01,"International Card","Discount Amount INR",8767.94
+2022-03-01,"Net Banking","Net Amount",247185.758375
+2022-03-01,"Net Banking","Discount Amount INR",10753
+2022-03-01,"Paytm UPI","Net Amount",119114.6244
+2022-03-01,"Paytm UPI","Discount Amount INR",5758.65
+2022-03-01,"PhonePe UPI","Net Amount",123426.109725
+2022-03-01,"PhonePe UPI","Discount Amount INR",4698.98
+2022-04-01,"Cash on Delivery","Net Amount",113295.2885
+2022-04-01,"Cash on Delivery","Discount Amount INR",4764.85
+2022-04-01,"Credit Card","Net Amount",959713.483
+2022-04-01,"Credit Card","Discount Amount INR",52282.4
+2022-04-01,"Debit Card","Net Amount",646439.168
+2022-04-01,"Debit Card","Discount Amount INR",31291.62
+2022-04-01,"Google Pay UPI","Net Amount",117420.207
+2022-04-01,"Google Pay UPI","Discount Amount INR",7670.56
+2022-04-01,"International Card","Net Amount",173504.4775
+2022-04-01,"International Card","Discount Amount INR",8935.03
+2022-04-01,"Net Banking","Net Amount",282177.4925
+2022-04-01,"Net Banking","Discount Amount INR",11550.16
+2022-04-01,"Paytm UPI","Net Amount",126883.6045
+2022-04-01,"Paytm UPI","Discount Amount INR",6438.46
+2022-04-01,"PhonePe UPI","Net Amount",104990.6465
+2022-04-01,"PhonePe UPI","Discount Amount INR",3385.25
+2022-05-01,"Cash on Delivery","Net Amount",137242.577
+2022-05-01,"Cash on Delivery","Discount Amount INR",7249.15
+2022-05-01,"Credit Card","Net Amount",1179499.55
+2022-05-01,"Credit Card","Discount Amount INR",49595.38
+2022-05-01,"Debit Card","Net Amount",648684.9545
+2022-05-01,"Debit Card","Discount Amount INR",30934.49
+2022-05-01,"Google Pay UPI","Net Amount",141607.631
+2022-05-01,"Google Pay UPI","Discount Amount INR",5931.09
+2022-05-01,"International Card","Net Amount",109948.0715
+2022-05-01,"International Card","Discount Amount INR",5193.16
+2022-05-01,"Net Banking","Net Amount",275411.0445
+2022-05-01,"Net Banking","Discount Amount INR",12445.26
+2022-05-01,"Paytm UPI","Net Amount",187200.3675
+2022-05-01,"Paytm UPI","Discount Amount INR",7167.63
+2022-05-01,"PhonePe UPI","Net Amount",92949.716
+2022-05-01,"PhonePe UPI","Discount Amount INR",5546.22
+2022-06-01,"Cash on Delivery","Net Amount",123538.6472
+2022-06-01,"Cash on Delivery","Discount Amount INR",7030.66
+2022-06-01,"Credit Card","Net Amount",761690.95125
+2022-06-01,"Credit Card","Discount Amount INR",47720.19
+2022-06-01,"Debit Card","Net Amount",598396.8466
+2022-06-01,"Debit Card","Discount Amount INR",26839.16
+2022-06-01,"Google Pay UPI","Net Amount",93251.2353
+2022-06-01,"Google Pay UPI","Discount Amount INR",5746.08
+2022-06-01,"International Card","Net Amount",152053.3722
+2022-06-01,"International Card","Discount Amount INR",7530.09
+2022-06-01,"Net Banking","Net Amount",268828.7597
+2022-06-01,"Net Banking","Discount Amount INR",13622.14
+2022-06-01,"Paytm UPI","Net Amount",141179.32305
+2022-06-01,"Paytm UPI","Discount Amount INR",6027.93
+2022-06-01,"PhonePe UPI","Net Amount",110431.54425
+2022-06-01,"PhonePe UPI","Discount Amount INR",5280.99
+2022-07-01,"Cash on Delivery","Net Amount",105786.0023
+2022-07-01,"Cash on Delivery","Discount Amount INR",8599.9
+2022-07-01,"Credit Card","Net Amount",899407.04755
+2022-07-01,"Credit Card","Discount Amount INR",48067.07
+2022-07-01,"Debit Card","Net Amount",642367.2103
+2022-07-01,"Debit Card","Discount Amount INR",32132.54
+2022-07-01,"Google Pay UPI","Net Amount",122531.0724
+2022-07-01,"Google Pay UPI","Discount Amount INR",7571.16
+2022-07-01,"International Card","Net Amount",128135.426
+2022-07-01,"International Card","Discount Amount INR",7331.17
+2022-07-01,"Net Banking","Net Amount",263670.377
+2022-07-01,"Net Banking","Discount Amount INR",13194.4
+2022-07-01,"Paytm UPI","Net Amount",122704.25715
+2022-07-01,"Paytm UPI","Discount Amount INR",4998.69
+2022-07-01,"PhonePe UPI","Net Amount",120298.11475
+2022-07-01,"PhonePe UPI","Discount Amount INR",7865.78
+2022-08-01,"Cash on Delivery","Net Amount",146041.0765
+2022-08-01,"Cash on Delivery","Discount Amount INR",5278.58
+2022-08-01,"Credit Card","Net Amount",1052976.571
+2022-08-01,"Credit Card","Discount Amount INR",44489.06
+2022-08-01,"Debit Card","Net Amount",627342.871
+2022-08-01,"Debit Card","Discount Amount INR",34181.68
+2022-08-01,"Google Pay UPI","Net Amount",125250.3885
+2022-08-01,"Google Pay UPI","Discount Amount INR",4715.7
+2022-08-01,"International Card","Net Amount",135710.5755
+2022-08-01,"International Card","Discount Amount INR",8708.46
+2022-08-01,"Net Banking","Net Amount",281957.2015
+2022-08-01,"Net Banking","Discount Amount INR",11764.54
+2022-08-01,"Paytm UPI","Net Amount",127352.241
+2022-08-01,"Paytm UPI","Discount Amount INR",7516.7
+2022-08-01,"PhonePe UPI","Net Amount",134562.6305
+2022-08-01,"PhonePe UPI","Discount Amount INR",5998.96
+2022-09-01,"Cash on Delivery","Net Amount",128816.529825
+2022-09-01,"Cash on Delivery","Discount Amount INR",7432.59
+2022-09-01,"Credit Card","Net Amount",1026580.771575
+2022-09-01,"Credit Card","Discount Amount INR",41968.11
+2022-09-01,"Debit Card","Net Amount",713804.894625
+2022-09-01,"Debit Card","Discount Amount INR",35538.15
+2022-09-01,"Google Pay UPI","Net Amount",98366.831375
+2022-09-01,"Google Pay UPI","Discount Amount INR",6805.03
+2022-09-01,"International Card","Net Amount",133826.088975
+2022-09-01,"International Card","Discount Amount INR",6381.24
+2022-09-01,"Net Banking","Net Amount",269561.107125
+2022-09-01,"Net Banking","Discount Amount INR",14473.02
+2022-09-01,"Paytm UPI","Net Amount",113779.193425
+2022-09-01,"Paytm UPI","Discount Amount INR",6163.46
+2022-09-01,"PhonePe UPI","Net Amount",138003.63555
+2022-09-01,"PhonePe UPI","Discount Amount INR",6377.55
+2022-10-01,"Cash on Delivery","Net Amount",141006.5998
+2022-10-01,"Cash on Delivery","Discount Amount INR",8578.79
+2022-10-01,"Credit Card","Net Amount",1264790.67945
+2022-10-01,"Credit Card","Discount Amount INR",53662.06
+2022-10-01,"Debit Card","Net Amount",679665.1197
+2022-10-01,"Debit Card","Discount Amount INR",30497
+2022-10-01,"Google Pay UPI","Net Amount",149992.46985
+2022-10-01,"Google Pay UPI","Discount Amount INR",6670.81
+2022-10-01,"International Card","Net Amount",138382.9281
+2022-10-01,"International Card","Discount Amount INR",4424.87
+2022-10-01,"Net Banking","Net Amount",296095.8936
+2022-10-01,"Net Banking","Discount Amount INR",9622.02
+2022-10-01,"Paytm UPI","Net Amount",105562.602
+2022-10-01,"Paytm UPI","Discount Amount INR",5986.11
+2022-10-01,"PhonePe UPI","Net Amount",127067.2135
+2022-10-01,"PhonePe UPI","Discount Amount INR",5342.74
+2022-11-01,"Cash on Delivery","Net Amount",158725.302
+2022-11-01,"Cash on Delivery","Discount Amount INR",6163.63
+2022-11-01,"Credit Card","Net Amount",1292511.71595
+2022-11-01,"Credit Card","Discount Amount INR",50518.26
+2022-11-01,"Debit Card","Net Amount",788461.40815
+2022-11-01,"Debit Card","Discount Amount INR",30884.36
+2022-11-01,"Google Pay UPI","Net Amount",121136.91595
+2022-11-01,"Google Pay UPI","Discount Amount INR",5378.67
+2022-11-01,"International Card","Net Amount",147683.37855
+2022-11-01,"International Card","Discount Amount INR",6775.97
+2022-11-01,"Net Banking","Net Amount",372873.14265
+2022-11-01,"Net Banking","Discount Amount INR",12984.07
+2022-11-01,"Paytm UPI","Net Amount",174229.89035
+2022-11-01,"Paytm UPI","Discount Amount INR",3515.04
+2022-11-01,"PhonePe UPI","Net Amount",142292.1231
+2022-11-01,"PhonePe UPI","Discount Amount INR",4249.84
+2022-12-01,"Cash on Delivery","Net Amount",126309.7449
+2022-12-01,"Cash on Delivery","Discount Amount INR",6077.48
+2022-12-01,"Credit Card","Net Amount",1582804.4837
+2022-12-01,"Credit Card","Discount Amount INR",53116.79
+2022-12-01,"Debit Card","Net Amount",970873.5063
+2022-12-01,"Debit Card","Discount Amount INR",26216.93
+2022-12-01,"Google Pay UPI","Net Amount",176002.7347
+2022-12-01,"Google Pay UPI","Discount Amount INR",5391.57
+2022-12-01,"International Card","Net Amount",183374.2036
+2022-12-01,"International Card","Discount Amount INR",6990.2
+2022-12-01,"Net Banking","Net Amount",323783.2619
+2022-12-01,"Net Banking","Discount Amount INR",10537.73
+2022-12-01,"Paytm UPI","Net Amount",139054.0467
+2022-12-01,"Paytm UPI","Discount Amount INR",3716.68
+2022-12-01,"PhonePe UPI","Net Amount",199148.3972
+2022-12-01,"PhonePe UPI","Discount Amount INR",7045.14
+2023-01-01,"Cash on Delivery","Net Amount",122745.9036
+2023-01-01,"Cash on Delivery","Discount Amount INR",6248.13
+2023-01-01,"Credit Card","Net Amount",998722.0568
+2023-01-01,"Credit Card","Discount Amount INR",50585.65
+2023-01-01,"Debit Card","Net Amount",555737.6016
+2023-01-01,"Debit Card","Discount Amount INR",27346.86
+2023-01-01,"Google Pay UPI","Net Amount",137245.328
+2023-01-01,"Google Pay UPI","Discount Amount INR",5806.99
+2023-01-01,"International Card","Net Amount",120401.918
+2023-01-01,"International Card","Discount Amount INR",6963.67
+2023-01-01,"Net Banking","Net Amount",257012.6124
+2023-01-01,"Net Banking","Discount Amount INR",13771.5
+2023-01-01,"Paytm UPI","Net Amount",108664.276
+2023-01-01,"Paytm UPI","Discount Amount INR",5153.63
+2023-01-01,"PhonePe UPI","Net Amount",128147.052
+2023-01-01,"PhonePe UPI","Discount Amount INR",5550.9
+2023-02-01,"Cash on Delivery","Net Amount",119352.554
+2023-02-01,"Cash on Delivery","Discount Amount INR",7084.3
+2023-02-01,"Credit Card","Net Amount",802917.3256
+2023-02-01,"Credit Card","Discount Amount INR",46466.03
+2023-02-01,"Debit Card","Net Amount",552594.682
+2023-02-01,"Debit Card","Discount Amount INR",26615.99
+2023-02-01,"Google Pay UPI","Net Amount",83248.8114
+2023-02-01,"Google Pay UPI","Discount Amount INR",4854.78
+2023-02-01,"International Card","Net Amount",154367.9452
+2023-02-01,"International Card","Discount Amount INR",7799.06
+2023-02-01,"Net Banking","Net Amount",212344.0202
+2023-02-01,"Net Banking","Discount Amount INR",14144.44
+2023-02-01,"Paytm UPI","Net Amount",79321.7188
+2023-02-01,"Paytm UPI","Discount Amount INR",4420.22
+2023-02-01,"PhonePe UPI","Net Amount",88883.1592
+2023-02-01,"PhonePe UPI","Discount Amount INR",5834.51
+2023-03-01,"Cash on Delivery","Net Amount",131422.5216
+2023-03-01,"Cash on Delivery","Discount Amount INR",5772.42
+2023-03-01,"Credit Card","Net Amount",1016261.9194
+2023-03-01,"Credit Card","Discount Amount INR",46114.01
+2023-03-01,"Debit Card","Net Amount",619739.0734
+2023-03-01,"Debit Card","Discount Amount INR",26100.35
+2023-03-01,"Google Pay UPI","Net Amount",110110.5972
+2023-03-01,"Google Pay UPI","Discount Amount INR",5929.41
+2023-03-01,"International Card","Net Amount",134498.8346
+2023-03-01,"International Card","Discount Amount INR",6331.51
+2023-03-01,"Net Banking","Net Amount",317157.7258
+2023-03-01,"Net Banking","Discount Amount INR",12429.35
+2023-03-01,"Paytm UPI","Net Amount",142373.9482
+2023-03-01,"Paytm UPI","Discount Amount INR",5346.26
+2023-03-01,"PhonePe UPI","Net Amount",121658.5444
+2023-03-01,"PhonePe UPI","Discount Amount INR",4998.83
+2023-04-01,"Cash on Delivery","Net Amount",137512.048
+2023-04-01,"Cash on Delivery","Discount Amount INR",7265.06
+2023-04-01,"Credit Card","Net Amount",1107351.344
+2023-04-01,"Credit Card","Discount Amount INR",51386.5
+2023-04-01,"Debit Card","Net Amount",627699.986
+2023-04-01,"Debit Card","Discount Amount INR",31179.19
+2023-04-01,"Google Pay UPI","Net Amount",138625.754
+2023-04-01,"Google Pay UPI","Discount Amount INR",7031.77
+2023-04-01,"International Card","Net Amount",146289.55
+2023-04-01,"International Card","Discount Amount INR",7453.79
+2023-04-01,"Net Banking","Net Amount",257516.338
+2023-04-01,"Net Banking","Discount Amount INR",11969.69
+2023-04-01,"Paytm UPI","Net Amount",144094.062
+2023-04-01,"Paytm UPI","Discount Amount INR",6951.81
+2023-04-01,"PhonePe UPI","Net Amount",154616.066
+2023-04-01,"PhonePe UPI","Discount Amount INR",6766.09
+2023-05-01,"Cash on Delivery","Net Amount",175382.498
+2023-05-01,"Cash on Delivery","Discount Amount INR",11022.97
+2023-05-01,"Credit Card","Net Amount",1098099.396
+2023-05-01,"Credit Card","Discount Amount INR",55007.46
+2023-05-01,"Debit Card","Net Amount",611174.684
+2023-05-01,"Debit Card","Discount Amount INR",34496.44
+2023-05-01,"Google Pay UPI","Net Amount",143978.68
+2023-05-01,"Google Pay UPI","Discount Amount INR",4691.48
+2023-05-01,"International Card","Net Amount",131596.67
+2023-05-01,"International Card","Discount Amount INR",5213.59
+2023-05-01,"Net Banking","Net Amount",257818.392
+2023-05-01,"Net Banking","Discount Amount INR",10242.12
+2023-05-01,"Paytm UPI","Net Amount",136905.036
+2023-05-01,"Paytm UPI","Discount Amount INR",5200.44
+2023-05-01,"PhonePe UPI","Net Amount",195604.698
+2023-05-01,"PhonePe UPI","Discount Amount INR",9096.75
+2023-06-01,"Cash on Delivery","Net Amount",115869.4788
+2023-06-01,"Cash on Delivery","Discount Amount INR",5742.42
+2023-06-01,"Credit Card","Net Amount",968070.3236
+2023-06-01,"Credit Card","Discount Amount INR",50054.5
+2023-06-01,"Debit Card","Net Amount",531174.2568
+2023-06-01,"Debit Card","Discount Amount INR",34252.14
+2023-06-01,"Google Pay UPI","Net Amount",84265.9616
+2023-06-01,"Google Pay UPI","Discount Amount INR",5749.36
+2023-06-01,"International Card","Net Amount",111360.2956
+2023-06-01,"International Card","Discount Amount INR",8911.01
+2023-06-01,"Net Banking","Net Amount",294057.4036
+2023-06-01,"Net Banking","Discount Amount INR",16969.01
+2023-06-01,"Paytm UPI","Net Amount",118983.3804
+2023-06-01,"Paytm UPI","Discount Amount INR",8438.94
+2023-06-01,"PhonePe UPI","Net Amount",118533.8632
+2023-06-01,"PhonePe UPI","Discount Amount INR",5919.44
+2023-07-01,"Cash on Delivery","Net Amount",121798.95
+2023-07-01,"Cash on Delivery","Discount Amount INR",5293.02
+2023-07-01,"Credit Card","Net Amount",1081904.0056
+2023-07-01,"Credit Card","Discount Amount INR",60935.06
+2023-07-01,"Debit Card","Net Amount",661239.2912
+2023-07-01,"Debit Card","Discount Amount INR",30163.9
+2023-07-01,"Google Pay UPI","Net Amount",97989.99
+2023-07-01,"Google Pay UPI","Discount Amount INR",6043.71
+2023-07-01,"International Card","Net Amount",129788.5124
+2023-07-01,"International Card","Discount Amount INR",6874.72
+2023-07-01,"Net Banking","Net Amount",203431.8588
+2023-07-01,"Net Banking","Discount Amount INR",11470.44
+2023-07-01,"Paytm UPI","Net Amount",137861.1132
+2023-07-01,"Paytm UPI","Discount Amount INR",7026.87
+2023-07-01,"PhonePe UPI","Net Amount",121256.7664
+2023-07-01,"PhonePe UPI","Discount Amount INR",7043
+2023-08-01,"Cash on Delivery","Net Amount",175131.02
+2023-08-01,"Cash on Delivery","Discount Amount INR",7183.12
+2023-08-01,"Credit Card","Net Amount",1110968.136
+2023-08-01,"Credit Card","Discount Amount INR",49309.2
+2023-08-01,"Debit Card","Net Amount",751661.292
+2023-08-01,"Debit Card","Discount Amount INR",29951.1
+2023-08-01,"Google Pay UPI","Net Amount",134608.336
+2023-08-01,"Google Pay UPI","Discount Amount INR",7070.18
+2023-08-01,"International Card","Net Amount",159928.914
+2023-08-01,"International Card","Discount Amount INR",8687.19
+2023-08-01,"Net Banking","Net Amount",229916.122
+2023-08-01,"Net Banking","Discount Amount INR",8578.13
+2023-08-01,"Paytm UPI","Net Amount",127227.344
+2023-08-01,"Paytm UPI","Discount Amount INR",6739.78
+2023-08-01,"PhonePe UPI","Net Amount",133533.306
+2023-08-01,"PhonePe UPI","Discount Amount INR",4092.57
+2023-09-01,"Cash on Delivery","Net Amount",190712.9522
+2023-09-01,"Cash on Delivery","Discount Amount INR",6236.98
+2023-09-01,"Credit Card","Net Amount",1152667.4824
+2023-09-01,"Credit Card","Discount Amount INR",47559.05
+2023-09-01,"Debit Card","Net Amount",726042.3368
+2023-09-01,"Debit Card","Discount Amount INR",37166.35
+2023-09-01,"Google Pay UPI","Net Amount",139696.294
+2023-09-01,"Google Pay UPI","Discount Amount INR",5700.65
+2023-09-01,"International Card","Net Amount",170212.031
+2023-09-01,"International Card","Discount Amount INR",5500.45
+2023-09-01,"Net Banking","Net Amount",299009.7722
+2023-09-01,"Net Banking","Discount Amount INR",12322.96
+2023-09-01,"Paytm UPI","Net Amount",144958.7318
+2023-09-01,"Paytm UPI","Discount Amount INR",5529.28
+2023-09-01,"PhonePe UPI","Net Amount",116823.3278
+2023-09-01,"PhonePe UPI","Discount Amount INR",5617.84
+2023-10-01,"Cash on Delivery","Net Amount",168637.1276
+2023-10-01,"Cash on Delivery","Discount Amount INR",7364.98
+2023-10-01,"Credit Card","Net Amount",1186345.5028
+2023-10-01,"Credit Card","Discount Amount INR",45785.78
+2023-10-01,"Debit Card","Net Amount",711330.4352
+2023-10-01,"Debit Card","Discount Amount INR",31427.77
+2023-10-01,"Google Pay UPI","Net Amount",182419.8868
+2023-10-01,"Google Pay UPI","Discount Amount INR",8067.65
+2023-10-01,"International Card","Net Amount",157867.7248
+2023-10-01,"International Card","Discount Amount INR",5214.5
+2023-10-01,"Net Banking","Net Amount",289575.9944
+2023-10-01,"Net Banking","Discount Amount INR",8988.43
+2023-10-01,"Paytm UPI","Net Amount",162574.3836
+2023-10-01,"Paytm UPI","Discount Amount INR",5332.89
+2023-10-01,"PhonePe UPI","Net Amount",180407.6288
+2023-10-01,"PhonePe UPI","Discount Amount INR",7023.58
+2023-11-01,"Cash on Delivery","Net Amount",230621.1256
+2023-11-01,"Cash on Delivery","Discount Amount INR",7558.13
+2023-11-01,"Credit Card","Net Amount",1537403.1072
+2023-11-01,"Credit Card","Discount Amount INR",50022.27
+2023-11-01,"Debit Card","Net Amount",843484.1228
+2023-11-01,"Debit Card","Discount Amount INR",34398.28
+2023-11-01,"Google Pay UPI","Net Amount",137925.1488
+2023-11-01,"Google Pay UPI","Discount Amount INR",3188.52
+2023-11-01,"International Card","Net Amount",177950.8932
+2023-11-01,"International Card","Discount Amount INR",7110.3
+2023-11-01,"Net Banking","Net Amount",401380.6924
+2023-11-01,"Net Banking","Discount Amount INR",14562.17
+2023-11-01,"Paytm UPI","Net Amount",183739.1592
+2023-11-01,"Paytm UPI","Discount Amount INR",6968.22
+2023-11-01,"PhonePe UPI","Net Amount",147028.1776
+2023-11-01,"PhonePe UPI","Discount Amount INR",6742.91
+2023-12-01,"Cash on Delivery","Net Amount",209270.9056
+2023-12-01,"Cash on Delivery","Discount Amount INR",5575.76
+2023-12-01,"Credit Card","Net Amount",1591922.0096
+2023-12-01,"Credit Card","Discount Amount INR",51002.44
+2023-12-01,"Debit Card","Net Amount",1055374.300875
+2023-12-01,"Debit Card","Discount Amount INR",34157.01
+2023-12-01,"Google Pay UPI","Net Amount",123526.156
+2023-12-01,"Google Pay UPI","Discount Amount INR",3885.38
+2023-12-01,"International Card","Net Amount",191684.6908
+2023-12-01,"International Card","Discount Amount INR",9384.11
+2023-12-01,"Net Banking","Net Amount",403787.9588
+2023-12-01,"Net Banking","Discount Amount INR",12699.85
+2023-12-01,"Paytm UPI","Net Amount",167263.9664
+2023-12-01,"Paytm UPI","Discount Amount INR",5926.78
+2023-12-01,"PhonePe UPI","Net Amount",152369.2836
+2023-12-01,"PhonePe UPI","Discount Amount INR",4965.69
+2024-01-01,"Cash on Delivery","Net Amount",114389.50875
+2024-01-01,"Cash on Delivery","Discount Amount INR",6237.57
+2024-01-01,"Credit Card","Net Amount",1147257.92625
+2024-01-01,"Credit Card","Discount Amount INR",53277.24
+2024-01-01,"Debit Card","Net Amount",672762.60875
+2024-01-01,"Debit Card","Discount Amount INR",33691.03
+2024-01-01,"Google Pay UPI","Net Amount",113916.62375
+2024-01-01,"Google Pay UPI","Discount Amount INR",5157.82
+2024-01-01,"International Card","Net Amount",146865.25375
+2024-01-01,"International Card","Discount Amount INR",6739.67
+2024-01-01,"Net Banking","Net Amount",264334.525
+2024-01-01,"Net Banking","Discount Amount INR",10135.19
+2024-01-01,"Paytm UPI","Net Amount",118962.44875
+2024-01-01,"Paytm UPI","Discount Amount INR",6247.25
+2024-01-01,"PhonePe UPI","Net Amount",99129.08625
+2024-01-01,"PhonePe UPI","Discount Amount INR",4680.84
+2024-02-01,"Cash on Delivery","Net Amount",98404.49375
+2024-02-01,"Cash on Delivery","Discount Amount INR",5228.08
+2024-02-01,"Credit Card","Net Amount",792022.925625
+2024-02-01,"Credit Card","Discount Amount INR",41759.68
+2024-02-01,"Debit Card","Net Amount",500732.609375
+2024-02-01,"Debit Card","Discount Amount INR",24233.33
+2024-02-01,"Google Pay UPI","Net Amount",125772.621875
+2024-02-01,"Google Pay UPI","Discount Amount INR",5818.63
+2024-02-01,"International Card","Net Amount",97270.566875
+2024-02-01,"International Card","Discount Amount INR",3359.52
+2024-02-01,"Net Banking","Net Amount",219317.76375
+2024-02-01,"Net Banking","Discount Amount INR",13063.29
+2024-02-01,"Paytm UPI","Net Amount",97151.955
+2024-02-01,"Paytm UPI","Discount Amount INR",5150.9
+2024-02-01,"PhonePe UPI","Net Amount",112942.515625
+2024-02-01,"PhonePe UPI","Discount Amount INR",6059.79
+2024-03-01,"Cash on Delivery","Net Amount",110434.26375
+2024-03-01,"Cash on Delivery","Discount Amount INR",5756.27
+2024-03-01,"Credit Card","Net Amount",1148330.065625
+2024-03-01,"Credit Card","Discount Amount INR",57863.12
+2024-03-01,"Debit Card","Net Amount",789710.018125
+2024-03-01,"Debit Card","Discount Amount INR",38109.71
+2024-03-01,"Google Pay UPI","Net Amount",99032.205
+2024-03-01,"Google Pay UPI","Discount Amount INR",4006.03
+2024-03-01,"International Card","Net Amount",114139.7725
+2024-03-01,"International Card","Discount Amount INR",6880.3
+2024-03-01,"Net Banking","Net Amount",251899.395625
+2024-03-01,"Net Banking","Discount Amount INR",13720.64
+2024-03-01,"Paytm UPI","Net Amount",173423.635
+2024-03-01,"Paytm UPI","Discount Amount INR",10782.03
+2024-03-01,"PhonePe UPI","Net Amount",149726.898125
+2024-03-01,"PhonePe UPI","Discount Amount INR",8278.42
+2024-04-01,"Cash on Delivery","Net Amount",115754.5875
+2024-04-01,"Cash on Delivery","Discount Amount INR",3532.95
+2024-04-01,"Credit Card","Net Amount",1179351.9275
+2024-04-01,"Credit Card","Discount Amount INR",48003.86
+2024-04-01,"Debit Card","Net Amount",817738.3425
+2024-04-01,"Debit Card","Discount Amount INR",33517.57
+2024-04-01,"Google Pay UPI","Net Amount",126081.11
+2024-04-01,"Google Pay UPI","Discount Amount INR",8156.14
+2024-04-01,"International Card","Net Amount",132488.9725
+2024-04-01,"International Card","Discount Amount INR",7276.14
+2024-04-01,"Net Banking","Net Amount",261830.7225
+2024-04-01,"Net Banking","Discount Amount INR",13498.69
+2024-04-01,"Paytm UPI","Net Amount",130040.9225
+2024-04-01,"Paytm UPI","Discount Amount INR",6590.49
+2024-04-01,"PhonePe UPI","Net Amount",138049.9975
+2024-04-01,"PhonePe UPI","Discount Amount INR",5968.19
+2024-05-01,"Cash on Delivery","Net Amount",98947.45
+2024-05-01,"Cash on Delivery","Discount Amount INR",6774.95
+2024-05-01,"Credit Card","Net Amount",1133508.9025
+2024-05-01,"Credit Card","Discount Amount INR",39522.41
+2024-05-01,"Debit Card","Net Amount",789051.0425
+2024-05-01,"Debit Card","Discount Amount INR",36148.02
+2024-05-01,"Google Pay UPI","Net Amount",156680.0725
+2024-05-01,"Google Pay UPI","Discount Amount INR",4567.04
+2024-05-01,"International Card","Net Amount",140289.485
+2024-05-01,"International Card","Discount Amount INR",5664.19
+2024-05-01,"Net Banking","Net Amount",250623.6325
+2024-05-01,"Net Banking","Discount Amount INR",9653.93
+2024-05-01,"Paytm UPI","Net Amount",128234.435
+2024-05-01,"Paytm UPI","Discount Amount INR",4707.99
+2024-05-01,"PhonePe UPI","Net Amount",125352.2325
+2024-05-01,"PhonePe UPI","Discount Amount INR",3434.33
+2024-06-01,"Cash on Delivery","Net Amount",144676.7575
+2024-06-01,"Cash on Delivery","Discount Amount INR",5877.92
+2024-06-01,"Credit Card","Net Amount",1001903.945
+2024-06-01,"Credit Card","Discount Amount INR",47929.81
+2024-06-01,"Debit Card","Net Amount",586504.59125
+2024-06-01,"Debit Card","Discount Amount INR",25408.03
+2024-06-01,"Google Pay UPI","Net Amount",125779.46625
+2024-06-01,"Google Pay UPI","Discount Amount INR",7391.25
+2024-06-01,"International Card","Net Amount",133271.72625
+2024-06-01,"International Card","Discount Amount INR",5426.34
+2024-06-01,"Net Banking","Net Amount",262623.2725
+2024-06-01,"Net Banking","Discount Amount INR",11849.12
+2024-06-01,"Paytm UPI","Net Amount",106195.2425
+2024-06-01,"Paytm UPI","Discount Amount INR",4121.38
+2024-06-01,"PhonePe UPI","Net Amount",126898.81375
+2024-06-01,"PhonePe UPI","Discount Amount INR",6143.9
+2024-07-01,"Cash on Delivery","Net Amount",117631.78125
+2024-07-01,"Cash on Delivery","Discount Amount INR",7509.09
+2024-07-01,"Credit Card","Net Amount",1031743.015
+2024-07-01,"Credit Card","Discount Amount INR",52875.92
+2024-07-01,"Debit Card","Net Amount",667902.82125
+2024-07-01,"Debit Card","Discount Amount INR",31376.94
+2024-07-01,"Google Pay UPI","Net Amount",120860.8575
+2024-07-01,"Google Pay UPI","Discount Amount INR",7744.26
+2024-07-01,"International Card","Net Amount",120044.87125
+2024-07-01,"International Card","Discount Amount INR",5682.62
+2024-07-01,"Net Banking","Net Amount",228619.65375
+2024-07-01,"Net Banking","Discount Amount INR",12875.04
+2024-07-01,"Paytm UPI","Net Amount",116289.2675
+2024-07-01,"Paytm UPI","Discount Amount INR",7543.78
+2024-07-01,"PhonePe UPI","Net Amount",118392.15375
+2024-07-01,"PhonePe UPI","Discount Amount INR",7435.8
+2024-08-01,"Cash on Delivery","Net Amount",136578.235
+2024-08-01,"Cash on Delivery","Discount Amount INR",5929.69
+2024-08-01,"Credit Card","Net Amount",1199565.0525
+2024-08-01,"Credit Card","Discount Amount INR",51787.36
+2024-08-01,"Debit Card","Net Amount",785468.63
+2024-08-01,"Debit Card","Discount Amount INR",34042.92
+2024-08-01,"Google Pay UPI","Net Amount",119866.0275
+2024-08-01,"Google Pay UPI","Discount Amount INR",5491.81
+2024-08-01,"International Card","Net Amount",129717.3
+2024-08-01,"International Card","Discount Amount INR",5500.95
+2024-08-01,"Net Banking","Net Amount",246560.405
+2024-08-01,"Net Banking","Discount Amount INR",14870.07
+2024-08-01,"Paytm UPI","Net Amount",140681.5175
+2024-08-01,"Paytm UPI","Discount Amount INR",5494.02
+2024-08-01,"PhonePe UPI","Net Amount",168720.2775
+2024-08-01,"PhonePe UPI","Discount Amount INR",7494.86
+2024-09-01,"Cash on Delivery","Net Amount",100945.64125
+2024-09-01,"Cash on Delivery","Discount Amount INR",2791.76
+2024-09-01,"Credit Card","Net Amount",610680.499375
+2024-09-01,"Credit Card","Discount Amount INR",26885.63
+2024-09-01,"Debit Card","Net Amount",462422.208125
+2024-09-01,"Debit Card","Discount Amount INR",19446.22
+2024-09-01,"Google Pay UPI","Net Amount",89621.691875
+2024-09-01,"Google Pay UPI","Discount Amount INR",5776.15
+2024-09-01,"International Card","Net Amount",58655.660625
+2024-09-01,"International Card","Discount Amount INR",1961.85
+2024-09-01,"Net Banking","Net Amount",144728.40125
+2024-09-01,"Net Banking","Discount Amount INR",6616.84
+2024-09-01,"Paytm UPI","Net Amount",87905.393125
+2024-09-01,"Paytm UPI","Discount Amount INR",3675.83
+2024-09-01,"PhonePe UPI","Net Amount",116966.983125
+2024-09-01,"PhonePe UPI","Discount Amount INR",2906.91
