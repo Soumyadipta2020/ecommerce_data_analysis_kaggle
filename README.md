@@ -14,7 +14,7 @@
     |   |   |-- 📑 net_amount_discount_monthly.csv                      # Data prepared using "Net Amount & Discount Monthly Data.R"
     |   |   |-- 📑 net_amount_discount_vs_method_monthly.csv            # Data prepared using "Net Amount & Discount Monthly by payment method Data.R"
     |   |-- 📑 ecommerce_data.csv                                       # Raw data from Kaggle
-    |   |-- 📑 Ecommerce_data.md                                        # Raw data explanation
+    |   |-- 📄 Ecommerce_data.md                                        # Raw data explanation
     |-- </> Net Amount & Discount Monthly Forecast.ipynb                # Forecasting net amount and discount monthly
     |-- </> Net Amount & Discount Monthly Data.R                        # Data preparation for forecasting net amount and discount monthly
     |-- </> Net Amount & Discount Monthly by payment method Data.R      # Data preparation for forecasting net amount and discount monthly by payment method
